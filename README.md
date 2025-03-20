@@ -22,7 +22,7 @@ I am passionate about using data-driven insights to solve real-world problems an
 
 ## 📫 Contact Me
 📧 **Email:** [aneetaabhm022@gmail.com](mailto:aneetaabhm022@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn](https://linkedin.com/in/aneeta-abraham)  
+🔗 **LinkedIn:** [https://linkedin.com/in/aneeta-abraham](https://linkedin.com/in/aneeta-abraham)  
 🌍 **Location:** Kottayam, Kerala, India  
 
 ---
