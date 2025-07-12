@@ -15,6 +15,8 @@ I am passionate about using data-driven insights to solve real-world problems an
 - 🔥 **Version Control:** Git 
 
 ### 🌟 **Recent Projects:**
+- 🔐 **Context-Restricted Chatbot:*** Built a domain-specific chatbot using Python and OpenAI API that answers only approved queries. Implemented prompt tuning and rule-based
+      filters to ensure secure, controlled interactions.
 - 🔍 **Phishing URL Detection:** Built a machine learning model to classify URLs as phishing or legitimate, achieving high accuracy with Random Forest.  
 - 🚗 **Car Price Prediction:** Developed a regression model to predict car prices based on multiple features.  
 - 📚 **Library Management System:** Designed a SQL-based system to manage library operations.  
