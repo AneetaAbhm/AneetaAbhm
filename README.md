@@ -1,26 +1,38 @@
 # Hi there, I'm Aneeta Abraham! 👋
 
-🎓 **Aspiring Data Science Professional**  
+🎓 **Aspiring AI Engineer | Machine Learning & Generative AI Enthusiast | Data Scientist**  
 🌍 **From Kottayam, Kerala, India**  
 
 ## 🚀 About Me
 
-Hi! I'm **Aneeta Abraham**, a data science enthusiast with a strong interest in **machine learning, data analysis, and predictive modeling**.  
-I am passionate about using data-driven insights to solve real-world problems and constantly strive to enhance my skills through hands-on projects.
+Hi! I'm **Aneeta Abraham**, an aspiring **AI Engineer** with strong interest in **Machine Learning, Generative AI, automation, and intelligent systems**.  
+I enjoy building real-world solutions using **LLMs, predictive models, computer vision, and data-driven applications** that solve practical problems.
 
-### 💡 **Key Skills:**
-- 🛠️ **Machine Learning:** Python, Scikit-learn, ML Algorithms, Data Pipelining
-- 📊 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-- ⚙️ **Programming:** C, C++, Python, ReactJs, Django
-- 🔥 **Version Control:** Git 
+I’m passionate about continuously improving my skills through hands-on projects in **AI, workflow automation, analytics, and security-focused solutions**.
+
+
+### 💡 Key Skills:
+
+- 🤖 AI & Machine Learning: Python, Scikit-learn, ML Algorithms, Model Evaluation, Feature Engineering
+- 🧠 Generative AI: LLMs, Prompt Engineering, OpenAI API, LangChain, RAG Pipelines, Fine-Tuning
+- ⚙️ Backend & Automation: FastAPI, Streamlit, REST APIs, Workflow Automation, n8n
+- 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+- 🔐 Security Fundamentals: Phishing Detection, Log Analysis, Threat Detection, SOC Basics
+- 🛠 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 ### 🌟 **Recent Projects:**
-- 🔐 **Context-Restricted Chatbot:*** Built a domain-specific chatbot using Python and OpenAI API that answers only approved queries. Implemented prompt tuning and rule-based
-      filters to ensure secure, controlled interactions.
-- 🔍 **Phishing URL Detection:** Built a machine learning model to classify URLs as phishing or legitimate, achieving high accuracy with Random Forest.  
-- 🚗 **Car Price Prediction:** Developed a regression model to predict car prices based on multiple features.  
-- 📚 **Library Management System:** Designed a SQL-based system to manage library operations.  
-- 🏠 **Airbnb Analysis Dashboard:** Created an interactive Power BI dashboard to analyze New York Airbnb listings.  
+
+- 🚦 **Multi-Object Detection:** Developed a real-time object detection system using **YOLOv8** to identify multiple urban objects from images/videos. Built inference workflows and optimized detection performance.
+
+- 🎓 **Student Performance Prediction:** Built a **machine learning regression model** to predict student exam scores based on study habits and lifestyle factors. Deployed with an interactive app interface.
+
+- 🤖 **Context-Restricted Chatbot:** Developed a domain-specific chatbot using **Python and OpenAI API** that responds only to approved queries using prompt controls and rule-based filtering.
+
+- 🧠 **Fine-Tuning GPT-3.5 for Intelligent Complaint Management:** Fine-tuned **GPT-3.5** for complaint classification, intent detection, and structured information extraction using custom datasets.
+
+- 🔐 **Phishing URL Detection:** Built a machine learning model to classify URLs as phishing or legitimate using feature engineering and **Random Forest**, achieving high accuracy.
+
+- 📊 **Log Processing and Anomaly Detection:** Developed a Python-based solution to analyze system logs, detect anomalies, and identify suspicious activity patterns for monitoring use cases.
 
 ## 📫 Contact Me
 📧 **Email:** [aneetaabhm022@gmail.com](mailto:aneetaabhm022@gmail.com)  
