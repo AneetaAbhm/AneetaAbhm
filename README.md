@@ -15,7 +15,7 @@ I’m passionate about continuously improving my skills through hands-on project
 
 - 🤖 AI & Machine Learning: Python, Scikit-learn, ML Algorithms, Model Evaluation, Feature Engineering
 - 🧠 Generative AI: LLMs, Prompt Engineering, OpenAI API, LangChain, RAG Pipelines, Fine-Tuning
-- ⚙️ Backend & Automation: FastAPI, Streamlit, REST APIs, Workflow Automation, n8n
+- ⚙️ Backend & Automation: FastAPI, Streamlit, REST APIs, Workflow Automation
 - 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
 - 🛠 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
