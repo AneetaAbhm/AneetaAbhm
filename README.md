@@ -17,7 +17,6 @@ I’m passionate about continuously improving my skills through hands-on project
 - 🧠 Generative AI: LLMs, Prompt Engineering, OpenAI API, LangChain, RAG Pipelines, Fine-Tuning
 - ⚙️ Backend & Automation: FastAPI, Streamlit, REST APIs, Workflow Automation, n8n
 - 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-- 🔐 Security Fundamentals: Phishing Detection, Log Analysis, Threat Detection, SOC Basics
 - 🛠 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 ### 🌟 **Recent Projects:**
