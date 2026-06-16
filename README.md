@@ -21,6 +21,10 @@ I’m passionate about continuously improving my skills through hands-on project
 
 ### 🌟 **Recent Projects:**
 
+### 🌟 Recent Projects:
+
+- 🤖 **Multi-Agent RAG Chat Engine:** Developed a multi-agent Retrieval-Augmented Generation (RAG) system for intelligent document retrieval and question answering. Implemented hybrid search using **BGE-M3 embeddings**, **Qdrant vector database**, and **Cohere reranking** to improve retrieval accuracy. Integrated **LangGraph**, **Groq APIs**, and workflow orchestration for conversational AI. Implemented **PII redaction** and prompt-injection safeguards to support responsible AI practices.
+
 - 🚦 **Multi-Object Detection:** Developed a real-time object detection system using **YOLOv8** to identify multiple urban objects from images/videos. Built inference workflows and optimized detection performance.
 
 - 🎓 **Student Performance Prediction:** Built a **machine learning regression model** to predict student exam scores based on study habits and lifestyle factors. Deployed with an interactive app interface.
@@ -30,9 +34,6 @@ I’m passionate about continuously improving my skills through hands-on project
 - 🧠 **Fine-Tuning GPT-3.5 for Intelligent Complaint Management:** Fine-tuned **GPT-3.5** for complaint classification, intent detection, and structured information extraction using custom datasets.
 
 - 🔐 **Phishing URL Detection:** Built a machine learning model to classify URLs as phishing or legitimate using feature engineering and **Random Forest**, achieving high accuracy.
-
-- 📊 **Log Processing and Anomaly Detection:** Developed a Python-based solution to analyze system logs, detect anomalies, and identify suspicious activity patterns for monitoring use cases.
-
 ## 📫 Contact Me
 📧 **Email:** [aneetaabhm022@gmail.com](mailto:aneetaabhm022@gmail.com)  
 🔗 **LinkedIn:** [https://linkedin.com/in/aneeta-abraham](https://linkedin.com/in/aneeta-abraham)  
